@@ -1,24 +1,24 @@
 _________________________________________________________________________________
 
-# LAB 6
+# pertemuan 10
 
-![Latihan 1](https://github.com/nahrulwijaya/latihan10.git <br>
+![gitpush](foto/soal.png) <br>
 
 
 
-Pada tugas LAB 6, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
+pertemuan 10, saya diminta untuk membuat sebuah program menambahkan data ke sebuah list dengan sistem library root yang nantinya akan seperti ini.
 
 ## Langkah - Langkah
 
 * Disini saya membuat file library root nya terlebih dahulu dengan nama folder yaitu data:
 
-![Latihan 1.1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/0.png) <br>
+![gitpush](foto/capture.png) <br>
 
-![Latihan 1.2](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/1.png) <br>
+![gitpush](foto/11.png) <br>
 
 * Setelah itu buat lah file python nya dengan nama (lab6.py) tapi itu terserah kalian mau menggunakan nama apa
 
-![Latihan 1.3](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/3.png) <br>
+![gitpush](foto/33.png) <br>
 
 Lalu mari kita mengcoding file tersebut dengan syntax seperti di bawah ini
 
@@ -81,7 +81,7 @@ Jika sudah memasukan semua syntax diatas jangan di run terlebih dahulu nanti fil
 
 * Selanjutnya kita bikin file pythonnya tetapi di luar folder data untuk menjalankan file yang barusan di coding oleh kita. File yang kita akan bikin berilah nama (main.py) karna itu akan menjadi file yang akan menjalankan file library root yang telah kita bikin sebelumnya.
 
-![Foto Lat1](
+![gitpus](foto/33.png)
 * Jika sudah mari kita coding lagi file ini mari kita skuylah. Seperti biasa mengikuti syntax nya oke.
 
 ```
@@ -115,7 +115,7 @@ from data import lab6
 ```
 Fungsi nya ini untuk menjalankan file library root nya yaitu dari folder bernama (data) untuk membuka file (lab6.py). Itu penjelasan singkatnya, kalau sudah langsung run aja tapi sebelum di run save dulu nanti kalau hilang nangis :v udah langsung skuy ajalah. Nanti akan jadi seperti di bawah ini.
 
-![Foto Lat1](https://github.com/HamdanAlWahidan/TUGAS_PERTEMUAN_10-LAB-6/blob/main/Pertemuan%2010%20LAB%206%20-%20SS/9.png) <br>
+![gitpush](foto/1.png) <br>
 
 Cukup sekian tugas dari saya jika ada kesalahan saya mohon maaf yang sebesar besar.
 
