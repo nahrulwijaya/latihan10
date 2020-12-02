@@ -2,7 +2,7 @@ ________________________________________________________________________________
 
 # pertemuan 10
 
-![gitpush](foto/soal.png) <br>
+![gitpush](foto10/soal.png) <br>
 
 
 
@@ -12,13 +12,13 @@ pertemuan 10, saya diminta untuk membuat sebuah program menambahkan data ke sebu
 
 * Disini saya membuat file library root nya terlebih dahulu dengan nama folder yaitu data:
 
-![gitpush](foto/capture.png) <br>
+![gitpush](foto10/data.png) <br>
 
-![gitpush](foto/11.png) <br>
+![gitpush](foto10/11.png) <br>
 
 * Setelah itu buat lah file python nya dengan nama (lab6.py) tapi itu terserah kalian mau menggunakan nama apa
 
-![gitpush](foto/33.png) <br>
+![gitpush](foto10/33.png) <br>
 
 Lalu mari kita mengcoding file tersebut dengan syntax seperti di bawah ini
 
@@ -115,7 +115,7 @@ from data import lab6
 ```
 Fungsi nya ini untuk menjalankan file library root nya yaitu dari folder bernama (data) untuk membuka file (lab6.py). Itu penjelasan singkatnya, kalau sudah langsung run aja tapi sebelum di run save dulu nanti kalau hilang nangis :v udah langsung skuy ajalah. Nanti akan jadi seperti di bawah ini.
 
-![gitpush](foto/1.png) <br>
+![gitpush](foto10/1.png) <br>
 
 Cukup sekian tugas dari saya jika ada kesalahan saya mohon maaf yang sebesar besar.
 
