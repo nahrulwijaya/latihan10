@@ -81,7 +81,7 @@ Jika sudah memasukan semua syntax diatas jangan di run terlebih dahulu nanti fil
 
 * Selanjutnya kita bikin file pythonnya tetapi di luar folder data untuk menjalankan file yang barusan di coding oleh kita. File yang kita akan bikin berilah nama (main.py) karna itu akan menjadi file yang akan menjalankan file library root yang telah kita bikin sebelumnya.
 
-![gitpus](foto/33.png)
+![gitpus](.)
 * Jika sudah mari kita coding lagi file ini mari kita skuylah. Seperti biasa mengikuti syntax nya oke.
 
 ```
